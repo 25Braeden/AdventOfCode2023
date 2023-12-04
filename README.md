@@ -17,7 +17,7 @@ Here is the changes you need to make:
   2. Make a file called `(anything you want).txt` and paste the provided strings that they give you
   3. Change `String filePath = "/workspaces/codespaces-blank/puzzle.txt";` to `String filePath = "(Path to file we just made).txt";`
 Now that that's done, you should be able to run the code.<br>
-```
+```java
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;

@@ -1,2 +1,3 @@
-# AdventOfCode2023
-This is a directory where I will store (and explain) all my submissions for Advent of Code 2023.
+# Advent Of Code 2023
+> [!Important]<br>
+> By viewing and/or using any of my work you agree to the [license](https://choosealicense.com/licenses/mpl-2.0/)

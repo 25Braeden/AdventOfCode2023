@@ -7,6 +7,7 @@ This is a directory where I will be storing all my submissions for the Advent of
 ## Table of contents
   - [Problem 1](https://github.com/25Braeden/AdventOfCode2023/blob/main/README.md#problem-1)
     - [Solution](https://github.com/25Braeden/AdventOfCode2023/blob/main/README.md#solution)
+    - [Breakdown](https://github.com/25Braeden/AdventOfCode2023/blob/main/README.md#breakdown)
 
 ## Problem 1
 > If you just want to duplicate my code, you can [here](https://github.com/25Braeden/AOC-Day-1)

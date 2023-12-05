@@ -73,3 +73,5 @@ public class Day1 {
 }
 ```
 I'll maybe make an explination later if I'm not busy
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api25Braeden=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
